@@ -1,0 +1,11 @@
+general:
+  server: https://ntfy.sh
+  topic: onecare-general
+
+exceptions:
+  server: https://ntfy.sh
+  topic: onecare-exceptions
+
+test:
+  server: https://ntfy.sh
+  topic: onecare-test

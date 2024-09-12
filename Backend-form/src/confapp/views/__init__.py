@@ -1,0 +1,1 @@
+from confapp.views.lable_view import *

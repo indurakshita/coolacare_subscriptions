@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Stripe Payment Confirmation</title>
+    <script src="https://js.stripe.com/v3/"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        #payment-form {
+            width: 400px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        label {
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        input[type="text"],
+        #card-element {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            box-sizing: border-box;
+        }
+
+        #card-errors {
+            color: #dc3545;
+            margin-bottom: 10px;
+        }
+
+        #submit-button {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+
+        #submit-button:disabled {
+            background-color: #ccc;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+<body>
+    <h1>Stripe Payment Confirmation</h1>
+    <div id="payment-form">
+        <label for="card-element">Credit or debit card</label>
+        <div id="card-element"></div>
+
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name">
+
+        <label for="address">Address</label>
+        <input type="text" id="address" name="address">
+
+        <div id="card-errors" role="alert"></div>
+
+        <button id="submit-button">Submit Payment</button>
+    </div>
+
+    <script>
+        var stripe = Stripe('pk_test_51OmxSTSB8nF9xYBKTeO3C01muWGkb0ZjVazdrKazzRDPYyn6jY1qn5Js5Y9VV1D4fYmd5UDS5wJLfI4w2azqKVze00ZkxzTcRR');
+        var elements = stripe.elements();
+        var cardElement = elements.create('card');
+        cardElement.mount('#card-element');
+
+        var cardErrors = document.getElementById('card-errors');
+        var submitButton = document.getElementById('submit-button');
+
+        document.getElementById('payment-form').addEventListener('input', function(event) {
+            var form = event.target.form;
+            var isValid = form.checkValidity();
+            submitButton.disabled = !isValid;
+        });
+
+        submitButton.addEventListener('click', function(ev) {
+            ev.preventDefault();
+            stripe.confirmCardPayment('pi_3OncBgSB8nF9xYBK1EeBAMnl_secret_BuI8xlQWFcV0AkLI6t7ATGK9E', {
+                payment_method: {
+                    card: cardElement,
+                    billing_details: {
+                        name: document.getElementById('name').value,
+                        address: {
+                            line1: document.getElementById('address').value,
+                            city: 'City',
+                            postal_code: '12345',
+                            state: 'State',
+                            country: 'US'
+                            // Add more address fields as needed
+                        },
+                    },
+                },
+            }).then(function(result) {
+                if (result.error) {
+                    cardErrors.textContent = result.error.message;
+                } else {
+                    // Payment succeeded, handle success
+                    console.log("Payment successful");
+                }
+            });
+        });
+    </script>
+</body>
+</html>

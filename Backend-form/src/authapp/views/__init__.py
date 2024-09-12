@@ -1,0 +1,1 @@
+from authapp.views import Passwordreset_views,activation_views, auth_views 

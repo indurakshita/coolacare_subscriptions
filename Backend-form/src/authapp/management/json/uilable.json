@@ -1,0 +1,1689 @@
+[
+    {
+        "page_name": "signup",
+        "type": "heading",
+        "key": "signUpPageWelcome",
+        "display_value": "Welcome!",
+        "id": 1
+    },
+    {
+        "page_name": "signup",
+        "type": "heading",
+        "key": "signUpPageEnterYourPersonalDetails",
+        "display_value": "Enter your personal details",
+        "id": 2
+    },
+    {
+        "page_name": "signup",
+        "type": "heading",
+        "key": "signUpPageAndStartJourneyWithUs",
+        "display_value": "and start journey with us",
+        "id": 3
+    },
+    {
+        "page_name": "signup",
+        "type": "heading",
+        "key": "signUpPageSignUpheading",
+        "display_value": "Sign Up",
+        "id": 4
+    },
+    {
+        "page_name": "signup",
+        "type": "heading",
+        "key": "signUpPageFirstNameHeading",
+        "display_value": "First Name",
+        "id": 5
+    },
+    {
+        "page_name": "signup",
+        "type": "heading",
+        "key": "signUpPageLastNameHeading",
+        "display_value": "Last Name",
+        "id": 6
+    },
+    {
+        "page_name": "signup",
+        "type": "heading",
+        "key": "signUpPageEmailIDHeading",
+        "display_value": "Email ID",
+        "id": 7
+    },
+    {
+        "page_name": "signup",
+        "type": "heading",
+        "key": "signUpPagePhoneNumberHeading",
+        "display_value": "Phone Number",
+        "id": 8
+    },
+    {
+        "page_name": "signup",
+        "type": "heading",
+        "key": "signUpPageAddressHeading",
+        "display_value": "Address",
+        "id": 9
+    },
+    {
+        "page_name": "signup",
+        "type": "heading",
+        "key": "signUpPageCityHeading",
+        "display_value": "City",
+        "id": 10
+    },
+    {
+        "page_name": "signup",
+        "type": "heading",
+        "key": "signUpPageZipCodeHeading",
+        "display_value": "Zip Code",
+        "id": 11
+    },
+    {
+        "page_name": "signup",
+        "type": "heading",
+        "key": "signUpPagePasswordHeading",
+        "display_value": "Password",
+        "id": 12
+    },
+    {
+        "page_name": "signup",
+        "type": "heading",
+        "key": "signUpPageConfirmPasswordHeading",
+        "display_value": "Confirm Password",
+        "id": 13
+    },
+    {
+        "page_name": "signup",
+        "type": "button",
+        "key": "signUpPageSignUpButton",
+        "display_value": "Sign Up",
+        "id": 14
+    },
+    {
+        "page_name": "signup",
+        "type": "heading",
+        "key": "signUpPagePasswordCriteriaHeading",
+        "display_value": "Password must be:",
+        "id": 15
+    },
+    {
+        "page_name": "signup",
+        "type": "heading",
+        "key": "signUpPagePasswordCriteriaCharcatersLengthHeading",
+        "display_value": "At least 8 characters",
+        "id": 16
+    },
+    {
+        "page_name": "signup",
+        "type": "heading",
+        "key": "signUpPagePasswordCriteriaUpperCaseLowerCaseHeading",
+        "display_value": "Contains one lowercase and one uppercase letter",
+        "id": 17
+    },
+    {
+        "page_name": "signup",
+        "type": "heading",
+        "key": "signUpPagePasswordCriteriaNumberHeading",
+        "display_value": "Contains one number",
+        "id": 18
+    },
+    {
+        "page_name": "signup",
+        "type": "heading",
+        "key": "signUpPagePasswordCriteriaSpecialCharacterHeading",
+        "display_value": "Contains one special character",
+        "id": 19
+    },
+    {
+        "page_name": "signup",
+        "type": "heading",
+        "key": "signUpPageAlreadyHaveAnAccountHeading",
+        "display_value": "Already have an account ?",
+        "id": 20
+    },
+    {
+        "page_name": "signup",
+        "type": "heading",
+        "key": "signUpPageLoginHeading",
+        "display_value": "Login",
+        "id": 21
+    },
+    {
+        "page_name": "signup",
+        "type": "Validation_heading",
+        "key": "signUpPageFirstNameValidation",
+        "display_value": "First Name is required",
+        "id": 22
+    },
+    {
+        "page_name": "signup",
+        "type": "Validation_heading",
+        "key": "signUpPageLastNameValidation",
+        "display_value": "Last Name is required",
+        "id": 23
+    },
+    {
+        "page_name": "signup",
+        "type": "Validation_heading",
+        "key": "signUpPageEmailIDValidation",
+        "display_value": "Email ID is required",
+        "id": 24
+    },
+    {
+        "page_name": "signup",
+        "type": "Validation_heading",
+        "key": "signUpPageEmailIDInvalidValidation",
+        "display_value": "Invalid Email ID",
+        "id": 25
+    },
+    {
+        "page_name": "signup",
+        "type": "Validation_heading",
+        "key": "signUpPageCityValidation",
+        "display_value": "City is required",
+        "id": 26
+    },
+    {
+        "page_name": "signup",
+        "type": "Validation_heading",
+        "key": "signUpPagePasswordValidation",
+        "display_value": "Password is required",
+        "id": 27
+    },
+    {
+        "page_name": "signup",
+        "type": "Validation_heading",
+        "key": "signUpPagePasswordInvalidValidation",
+        "display_value": "Invalid Password",
+        "id": 28
+    },
+    {
+        "page_name": "signup",
+        "type": "Validation_heading",
+        "key": "signUpPageConfirmPasswordValidation",
+        "display_value": "Confirm Password is required",
+        "id": 29
+    },
+    {
+        "page_name": "signup",
+        "type": "Validation_heading",
+        "key": "signUpPageConfirmPasswordInvalidValidation",
+        "display_value": "Invalid Confirm Password",
+        "id": 30
+    },
+    {
+        "page_name": "signup",
+        "type": "Validation_heading",
+        "key": "signUpPagePassword&ConfirmPasswordInvalidValidation",
+        "display_value": "Password and Confirm Password does not match",
+        "id": 31
+    },
+    {
+        "page_name": "login",
+        "type": "heading",
+        "key": "loginPageWelcomeHeading",
+        "display_value": "Welcome",
+        "id": 32
+    },
+    {
+        "page_name": "login",
+        "type": "heading",
+        "key": "loginPagePleaseLoginFirstLine",
+        "display_value": "Please login to keep",
+        "id": 33
+    },
+    {
+        "page_name": "login",
+        "type": "heading",
+        "key": "loginPagePleaseLoginSecondLine",
+        "display_value": "connected with us",
+        "id": 34
+    },
+    {
+        "page_name": "login",
+        "type": "heading",
+        "key": "loginPageLoginHeading",
+        "display_value": "Login",
+        "id": 35
+    },
+    {
+        "page_name": "login",
+        "type": "heading",
+        "key": "loginPageEmailIDHeading",
+        "display_value": "Email ID",
+        "id": 36
+    },
+    {
+        "page_name": "login",
+        "type": "heading",
+        "key": "loginPagePasswordHeading",
+        "display_value": "Password",
+        "id": 37
+    },
+    {
+        "page_name": "login",
+        "type": "heading",
+        "key": "loginPageLoginButtonLabel",
+        "display_value": "Login",
+        "id": 38
+    },
+    {
+        "page_name": "login",
+        "type": "link",
+        "key": "loginPageNoAccountText",
+        "display_value": "Don't have an account? ",
+        "id": 39
+    },
+    {
+        "page_name": "login",
+        "type": "link",
+        "key": "loginPageSignupLinkLabel",
+        "display_value": "Signup",
+        "id": 40
+    },
+    {
+        "page_name": "login",
+        "type": "link",
+        "key": "loginPageForgotPasswordLinkLabel",
+        "display_value": "Forgot Password?",
+        "id": 41
+    },
+    {
+        "page_name": "login",
+        "type": "Validation_heading",
+        "key": "loginPageEmailIDValidation",
+        "display_value": "Email ID is required",
+        "id": 42
+    },
+    {
+        "page_name": "login",
+        "type": "Validation_heading",
+        "key": "loginPageEmailIDInvalidValidation",
+        "display_value": "Invalid Email ID",
+        "id": 43
+    },
+    {
+        "page_name": "login",
+        "type": "Validation_heading",
+        "key": "loginPagePasswordValidation",
+        "display_value": "Password is required",
+        "id": 44
+    },
+    {
+        "page_name": "login",
+        "type": "Validation_heading",
+        "key": "loginPagePasswordInvalidValidation",
+        "display_value": "Invalid Password",
+        "id": 45
+    },
+    {
+        "page_name": "forgotpassword",
+        "type": "heading",
+        "key": "forgotPasswordPageTitle",
+        "display_value": "Forgot Your Password?",
+        "id": 46
+    },
+    {
+        "page_name": "forgotpassword",
+        "type": "heading",
+        "key": "forgotPasswordPageInstruction",
+        "display_value": "Enter your email to reset your password",
+        "id": 47
+    },
+    {
+        "page_name": "forgotpassword",
+        "type": "heading",
+        "key": "forgotPasswordPageEmailLabel",
+        "display_value": "Email ID",
+        "id": 48
+    },
+    {
+        "page_name": "forgotpassword",
+        "type": "button",
+        "key": "forgotPasswordPageContinueButtonLabel",
+        "display_value": "Continue",
+        "id": 49
+    },
+    {
+        "page_name": "forgotpassword",
+        "type": "heading",
+        "key": "forgotPasswordPageConguratulations",
+        "display_value": "Conguratulations !",
+        "id": 50
+    },
+    {
+        "page_name": "forgotpassword",
+        "type": "heading",
+        "key": "forgotPasswordPageBacktoHeading",
+        "display_value": "Back to",
+        "id": 51
+    },
+    {
+        "page_name": "forgotpassword",
+        "type": "Link",
+        "key": "forgotPasswordPageLoginLink",
+        "display_value": "Login",
+        "id": 52
+    },
+    {
+        "page_name": "forgotpassword",
+        "type": "validation_heading",
+        "key": "forgotPasswordPageEmailValidation",
+        "display_value": "Email ID is required",
+        "id": 53
+    },
+    {
+        "page_name": "forgotpassword",
+        "type": "validation_heading",
+        "key": "forgotPasswordPageEmailInvalidValidation",
+        "display_value": "Invalid Email ID",
+        "id": 54
+    },
+    {
+        "page_name": "signup",
+        "type": "Validation_heading",
+        "key": "signUpPagePasswordValidation",
+        "display_value": "Password is required",
+        "id": 55
+    },
+    {
+        "page_name": "signup",
+        "type": "Validation_heading",
+        "key": "signUpPagePasswordInvalidValidation",
+        "display_value": "Invalid Password",
+        "id": 56
+    },
+    {
+        "page_name": "signup",
+        "type": "Validation_heading",
+        "key": "signUpPageConfirmPasswordValidation",
+        "display_value": "Confirm Password is required",
+        "id": 57
+    },
+    {
+        "page_name": "signup",
+        "type": "Validation_heading",
+        "key": "signUpPageConfirmPasswordInvalidValidation",
+        "display_value": "Invalid Confirm Password",
+        "id": 58
+    },
+    {
+        "page_name": "signup",
+        "type": "Validation_heading",
+        "key": "signUpPagePassword&ConfirmPasswordInvalidValidation",
+        "display_value": "Password and Confirm Password does not match",
+        "id": 59
+    },
+    {
+        "page_name": "resetPassword",
+        "type": "heading",
+        "key": "resetNewPasswordHeading",
+        "display_value": "Reset new Password",
+        "id": 60
+    },
+    {
+        "page_name": "resetPassword",
+        "type": "heading",
+        "key": "resetNewPasswordDescription",
+        "display_value": "Set a new password for your account so you can login and access all the features.",
+        "id": 61
+    },
+    {
+        "page_name": "resetPassword",
+        "type": "heading",
+        "key": "resetNewPasswordPasswordLabel",
+        "display_value": "Password",
+        "id": 62
+    },
+    {
+        "page_name": "resetPassword",
+        "type": "heading",
+        "key": "resetNewPasswordReEnterPasswordLabel",
+        "display_value": "Confirm Password",
+        "id": 63
+    },
+    {
+        "page_name": "resetPassword",
+        "type": "heading",
+        "key": "resetNewPasswordRequirements",
+        "display_value": "Password must be:",
+        "id": 64
+    },
+    {
+        "page_name": "resetPassword",
+        "type": "heading",
+        "key": "resetNewPasswordRequirement1",
+        "display_value": "At least 8 characters",
+        "id": 65
+    },
+    {
+        "page_name": "resetPassword",
+        "type": "heading",
+        "key": "resetNewPasswordRequirement2",
+        "display_value": "Contains one lowercase and one uppercase letter",
+        "id": 66
+    },
+    {
+        "page_name": "resetPassword",
+        "type": "heading",
+        "key": "resetNewPasswordRequirement3",
+        "display_value": "Contains one number",
+        "id": 67
+    },
+    {
+        "page_name": "resetPassword",
+        "type": "heading",
+        "key": "resetNewPasswordRequirement4",
+        "display_value": "Contains one special character",
+        "id": 68
+    },
+    {
+        "page_name": "resetPassword",
+        "type": "button",
+        "key": "resetNewPasswordContinueButton",
+        "display_value": "Continue",
+        "id": 69
+    },
+    {
+        "page_name": "resetPassword",
+        "type": "button",
+        "key": "resetNewPasswordValidation",
+        "display_value": "Password is required",
+        "id": 70
+    },
+    {
+        "page_name": "resetPassword",
+        "type": "Validation_heading",
+        "key": "resetNewPasswordInvalidValidation",
+        "display_value": "Invalid Password",
+        "id": 71
+    },
+    {
+        "page_name": "resetPassword",
+        "type": "Validation_heading",
+        "key": "resetNewConfirmPasswordValidation",
+        "display_value": "Confirm Password is required.",
+        "id": 72
+    },
+    {
+        "page_name": "resetPassword",
+        "type": "Validation_heading",
+        "key": "resetNewConfirmPasswordInvalidValidation",
+        "display_value": "Invalid Confirm Password",
+        "id": 73
+    },
+    {
+        "page_name": "resetPassword",
+        "type": "Validation_heading",
+        "key": "resetNewConfirmPasswordInvalidValidation",
+        "display_value": "Invalid Confirm Password",
+        "id": 74
+    },
+    {
+        "page_name": "resetPassword",
+        "type": "Validation_heading",
+        "key": "resetNewPassword&ConfirmPasswordInvalidValidation",
+        "display_value": "Password and Confirm Password does not match",
+        "id": 75
+    },
+    {
+        "page_name": "customerSubscriptionTable",
+        "type": "heading",
+        "key": "customerSubscriptionSubscriptionHeading",
+        "display_value": "Subscription",
+        "id": 76
+    },
+    {
+        "page_name": "customerSubscriptionTable",
+        "type": "button",
+        "key": "customerSubscriptionAddSubscriptionHeading",
+        "display_value": "Add Subscription",
+        "id": 77
+    },
+    {
+        "page_name": "customerSubscriptionTable",
+        "type": "button",
+        "key": "customerSubscriptionFilterButton",
+        "display_value": "Filter",
+        "id": 78
+    },
+    {
+        "page_name": "customerSubscriptionTable",
+        "type": "Placeholder",
+        "key": "customerSubscriptionSearchNamePlaceholder",
+        "display_value": "Search Name...",
+        "id": 79
+    },
+    {
+        "page_name": "customerSubscriptionTable",
+        "type": "Placeholder",
+        "key": "customerSubscriptionSearchPackagePlaceholder",
+        "display_value": "Search Package...",
+        "id": 80
+    },
+    {
+        "page_name": "customerSubscriptionTable",
+        "type": "Placeholder",
+        "key": "customerSubscriptionSearchStatusPlaceholder",
+        "display_value": "Search Status...",
+        "id": 81
+    },
+    {
+        "page_name": "customerSubscriptionTable",
+        "type": "heading",
+        "key": "customerSubscriptionS.NoHeading",
+        "display_value": "S.No",
+        "id": 82
+    },
+    {
+        "page_name": "customerSubscriptionTable",
+        "type": "heading",
+        "key": "customerSubscriptionNameHeading",
+        "display_value": "Name",
+        "id": 83
+    },
+    {
+        "page_name": "customerSubscriptionTable",
+        "type": "heading",
+        "key": "customerSubscriptionPackageHeading",
+        "display_value": "Package",
+        "id": 84
+    },
+    {
+        "page_name": "customerSubscriptionTable",
+        "type": "heading",
+        "key": "customerSubscriptionStartDateHeading",
+        "display_value": "Start Date",
+        "id": 85
+    },
+    {
+        "page_name": "customerSubscriptionTable",
+        "type": "heading",
+        "key": "customerSubscriptionEndDateHeading",
+        "display_value": "End Date",
+        "id": 86
+    },
+    {
+        "page_name": "customerSubscriptionTable",
+        "type": "heading",
+        "key": "customerSubscriptionStatusHeading",
+        "display_value": "Status",
+        "id": 87
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "heading",
+        "key": "customerSubscriptionFormSubscriptionFormHeading",
+        "display_value": "Subscription Form",
+        "id": 88
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "button",
+        "key": "customerSubscriptionFormOnBehalfButton",
+        "display_value": "On Behalf",
+        "id": 89
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "button",
+        "key": "customerSubscriptionFormMySlefHeading",
+        "display_value": "MySelf",
+        "id": 90
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "heading",
+        "key": "customerSubscriptionFormFirstNameHeading",
+        "display_value": "First Name",
+        "id": 91
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "heading",
+        "key": "customerSubscriptionFormLastNameHeading",
+        "display_value": "Last Name",
+        "id": 92
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "heading",
+        "key": "customerSubscriptionFormEmailIDHeading",
+        "display_value": "Email ID",
+        "id": 93
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "heading",
+        "key": "customerSubscriptionFormPackageHeading",
+        "display_value": "Package",
+        "id": 94
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "heading",
+        "key": "customerSubscriptionFormDurationHeading",
+        "display_value": "Duration",
+        "id": 95
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "heading",
+        "key": "customerSubscriptionFormDurationMonthlyHeading",
+        "display_value": "Monthly",
+        "id": 96
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "heading",
+        "key": "customerSubscriptionFormDurationYearlyHeading",
+        "display_value": "Yearly",
+        "id": 97
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "button",
+        "key": "customerSubscriptionFormCallButton",
+        "display_value": "Call",
+        "id": 98
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "button",
+        "key": "customerSubscriptionFormMessageButton",
+        "display_value": "Message",
+        "id": 99
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "heading",
+        "key": "customerSubscriptionFormTypeOfCall",
+        "display_value": "Type Of Call",
+        "id": 100
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "option",
+        "key": "customerSubscriptionFormSelectCommunicationPlaceholder",
+        "display_value": "Select Communication..",
+        "id": 101
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "option",
+        "key": "customerSubscriptionFormCourtesyCallsPlaceholder",
+        "display_value": "Courtesy Calls",
+        "id": 102
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "option",
+        "key": "customerSubscriptionFormWellnessCallsPlaceholder",
+        "display_value": "Wellness Calls",
+        "id": 103
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "option",
+        "key": "customerSubscriptionFormPhoneAFriendPlaceholder",
+        "display_value": "Phone A friend",
+        "id": 104
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "option",
+        "key": "customerSubscriptionFormMedicationReminderCallPlaceholder",
+        "display_value": "Medication Reminder Call",
+        "id": 105
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "option",
+        "key": "customerSubscriptionFormMealReminderCallPlaceholder",
+        "display_value": "Meal Reminder Call",
+        "id": 106
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "option",
+        "key": "customerSubscriptionFormMemorialMessageTributePlaceholder",
+        "display_value": "Memorial Message Tribute",
+        "id": 107
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "heading",
+        "key": "customerSubscriptionFormPhoneNumberHeading",
+        "display_value": "Phone Number",
+        "id": 108
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "heading",
+        "key": "customerSubscriptionFormMessageHeading",
+        "display_value": "Message",
+        "id": 109
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "Placeholder",
+        "key": "customerSubscriptionFormTypeYourMessageHerePlaceholder",
+        "display_value": "Type your message here",
+        "id": 110
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "heading",
+        "key": "customerSubscriptionFormDaysHeading",
+        "display_value": "Days",
+        "id": 111
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "heading",
+        "key": "customerSubscriptionFormDayOfTheWeekCallPreferenceHeading",
+        "display_value": "Day of the Week call preference",
+        "id": 112
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "heading",
+        "key": "customerSubscriptionFormGoldMorningHeading",
+        "display_value": "Morning",
+        "id": 113
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "heading",
+        "key": "customerSubscriptionFormGoldAfternoonHeading",
+        "display_value": "Afternoon",
+        "id": 114
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "heading",
+        "key": "customerSubscriptionFormGoldEveningHeading",
+        "display_value": "Evening",
+        "id": 115
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "heading",
+        "key": "customerSubscriptionFormDayOfTheWeekTextPreferenceHeading",
+        "display_value": "Day of the Week Text preference",
+        "id": 116
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "option",
+        "key": "customerSubscriptionFormDayOfTheWeekTextPreferenceSelectPlaceholder",
+        "display_value": "Select ...",
+        "id": 117
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "option",
+        "key": "customerSubscriptionFormDayOfTheWeekTextPreferenceMorningPlaceholder",
+        "display_value": "Morning",
+        "id": 118
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "option",
+        "key": "customerSubscriptionFormDayOfTheWeekTextPreferenceAfternoonPlaceholder",
+        "display_value": "Afternoon",
+        "id": 119
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "option",
+        "key": "customerSubscriptionFormDayOfTheWeekTextPreferenceEveningPlaceholder",
+        "display_value": "Evening",
+        "id": 120
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "heading",
+        "key": "customerSubscriptionFormResponseEmailIDHeading",
+        "display_value": "Response Email ID",
+        "id": 121
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "heading",
+        "key": "customerSubscriptionFormAlternativeContactHeading",
+        "display_value": "Alternative Contact",
+        "id": 122
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "heading",
+        "key": "customerSubscriptionFormAcknowledgement",
+        "display_value": " By clicking 'Submit' I agree by electronic signature to be contacted by COOLO Care through a live agent, artificial or prerecorded voice,and automated SMS text at my residential or cellular number, dialed manually or by autodialer, and by email.",
+        "id": 123
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "button",
+        "key": "customerSubscriptionFormSubmitButton",
+        "display_value": "Submit",
+        "id": 124
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "button",
+        "key": "customerSubscriptionFormCancelButton",
+        "display_value": "Cancel",
+        "id": 125
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "Validation_heading",
+        "key": "customerSubscriptionFormFirstNameValidation",
+        "display_value": "First Name is Required",
+        "id": 126
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "Validation_heading",
+        "key": "customerSubscriptionFormLastNameValidation",
+        "display_value": "Last Name is Required",
+        "id": 127
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "Validation_heading",
+        "key": "customerSubscriptionFormEmailIDValidation",
+        "display_value": "Email ID is Required",
+        "id": 128
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "Validation_heading",
+        "key": "customerSubscriptionFormEmailIDInvalidValidation",
+        "display_value": "Invalid Email ID",
+        "id": 129
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "Validation_heading",
+        "key": "customerSubscriptionFormDurationValidation",
+        "display_value": "Duration is Required",
+        "id": 130
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "Validation_heading",
+        "key": "customerSubscriptionFormTypeOfCallValidation",
+        "display_value": "Type Of Call is Required",
+        "id": 131
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "Validation_heading",
+        "key": "customerSubscriptionFormMessageValidation",
+        "display_value": "Message is Required",
+        "id": 132
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "Validation_heading",
+        "key": "customerSubscriptionFormResponseEmailIDValidation",
+        "display_value": "Response Email ID is Required",
+        "id": 133
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "Validation_heading",
+        "key": "customerSubscriptionFormInvalidResponseEmailIDValidation",
+        "display_value": "Invalid Response Email ID",
+        "id": 134
+    },
+    {
+        "page_name": "customerSubscriptionForm",
+        "type": "Validation_heading",
+        "key": "customerSubscriptionFormAlternativeContactValidation",
+        "display_value": "Alternative Contact is required",
+        "id": 135
+    },
+    {
+        "page_name": "customerSubscriptionDetails",
+        "type": "heading",
+        "key": "customerSubscriptionDetailsSubscriptionDetailsHeading",
+        "display_value": "Subscription Details",
+        "id": 136
+    },
+    {
+        "page_name": "customerSubscriptionDetails",
+        "type": "button",
+        "key": "customerSubscriptionDetailsEditButton",
+        "display_value": "Edit",
+        "id": 137
+    },
+    {
+        "page_name": "customerSubscriptionDetails",
+        "type": "button",
+        "key": "customerSubscriptionDetailsBackButton",
+        "display_value": "Back",
+        "id": 138
+    },
+    {
+        "page_name": "customerSubscriptionDetails",
+        "type": "heading",
+        "key": "customerSubscriptionDetailsVoiceCallS.NoHeading",
+        "display_value": "S.No",
+        "id": 139
+    },
+    {
+        "page_name": "customerSubscriptionDetails",
+        "type": "heading",
+        "key": "customerSubscriptionDetailsVoiceCallScheduleDateHeading",
+        "display_value": "Schedule date",
+        "id": 140
+    },
+    {
+        "page_name": "customerSubscriptionDetails",
+        "type": "heading",
+        "key": "customerSubscriptionDetailsVoiceCallDayHeading",
+        "display_value": "Day",
+        "id": 141
+    },
+    {
+        "page_name": "customerSubscriptionDetails",
+        "type": "heading",
+        "key": "customerSubscriptionDetailsVoiceCallDayTimeHeading",
+        "display_value": "Day Time",
+        "id": 142
+    },
+    {
+        "page_name": "customerSubscriptionDetails",
+        "type": "heading",
+        "key": "customerSubscriptionDetailsVoiceCallAgentHeading",
+        "display_value": "Agent",
+        "id": 143
+    },
+    {
+        "page_name": "customerSubscriptionDetails",
+        "type": "heading",
+        "key": "customerSubscriptionDetailsVoiceCallFeedbackHeading",
+        "display_value": "Feedback",
+        "id": 144
+    },
+    {
+        "page_name": "customerSubscriptionDetails",
+        "type": "heading",
+        "key": "customerSubscriptionDetailsVoiceCallStartTimeHeading",
+        "display_value": "Start Time",
+        "id": 145
+    },
+    {
+        "page_name": "customerSubscriptionDetails",
+        "type": "heading",
+        "key": "customerSubscriptionDetailsVoiceCallEndTimeHeading",
+        "display_value": "End Time",
+        "id": 146
+    },
+    {
+        "page_name": "customerSubscriptionDetails",
+        "type": "heading",
+        "key": "customerSubscriptionDetailsVoiceCallStatusHeading",
+        "display_value": "Status",
+        "id": 147
+    },
+    {
+        "page_name": "customerSubscriptionDetails",
+        "type": "heading",
+        "key": "customerSubscriptionDetailsTextS.NoHeading",
+        "display_value": "S.No",
+        "id": 148
+    },
+    {
+        "page_name": "customerSubscriptionDetails",
+        "type": "heading",
+        "key": "customerSubscriptionDetailsTextDateHeading",
+        "display_value": "Date",
+        "id": 149
+    },
+    {
+        "page_name": "customerSubscriptionDetails",
+        "type": "heading",
+        "key": "customerSubscriptionDetailsTextDayHeading",
+        "display_value": "Day",
+        "id": 150
+    },
+    {
+        "page_name": "customerSubscriptionDetails",
+        "type": "heading",
+        "key": "customerSubscriptionDetailsTextDayTimeHeading",
+        "display_value": "Day Time",
+        "id": 151
+    },
+    {
+        "page_name": "customerSubscriptionDetails",
+        "type": "heading",
+        "key": "customerSubscriptionDetailsTextTimeHeading",
+        "display_value": "Time",
+        "id": 152
+    },
+    {
+        "page_name": "customerSubscriptionDetails",
+        "type": "heading",
+        "key": "customerSubscriptionDetailsTextStatusHeading",
+        "display_value": "Status",
+        "id": 153
+    },
+    {
+        "page_name": "customerPersonalInformation",
+        "type": "heading",
+        "key": "customerPerosnalInformationPersonalInformationHeading",
+        "display_value": "Personal Information",
+        "id": 154
+    },
+    {
+        "page_name": "customerPersonalInformation",
+        "type": "heading",
+        "key": "customerPerosnalInformationFirstNameHeading",
+        "display_value": "First Name",
+        "id": 155
+    },
+    {
+        "page_name": "customerPersonalInformation",
+        "type": "heading",
+        "key": "customerPerosnalInformationFirstNameColon",
+        "display_value": ":",
+        "id": 156
+    },
+    {
+        "page_name": "customerPersonalInformation",
+        "type": "heading",
+        "key": "customerPerosnalInformationPhoneNumberHeading",
+        "display_value": "Phone Number",
+        "id": 157
+    },
+    {
+        "page_name": "customerPersonalInformation",
+        "type": "heading",
+        "key": "customerPerosnalInformationPhoneNumberColon",
+        "display_value": "Phone Number",
+        "id": 158
+    },
+    {
+        "page_name": "customerPersonalInformation",
+        "type": "heading",
+        "key": "customerPerosnalInformationZipCodeHeading",
+        "display_value": "Zip Code",
+        "id": 159
+    },
+    {
+        "page_name": "customerPersonalInformation",
+        "type": "heading",
+        "key": "customerPerosnalInformationZipCodeColon",
+        "display_value": ":",
+        "id": 160
+    },
+    {
+        "page_name": "customerPersonalInformation",
+        "type": "heading",
+        "key": "customerPerosnalInformationLastNameHeading",
+        "display_value": "Last Name",
+        "id": 161
+    },
+    {
+        "page_name": "customerPersonalInformation",
+        "type": "heading",
+        "key": "customerPerosnalInformationLastNameColon",
+        "display_value": ":",
+        "id": 162
+    },
+    {
+        "page_name": "customerPersonalInformation",
+        "type": "heading",
+        "key": "customerPerosnalInformationAddressHeading",
+        "display_value": "Address",
+        "id": 163
+    },
+    {
+        "page_name": "customerPersonalInformation",
+        "type": "heading",
+        "key": "customerPerosnalInformationAddressColon",
+        "display_value": ":",
+        "id": 164
+    },
+    {
+        "page_name": "customerEditPersonalInformation",
+        "type": "heading",
+        "key": "customerEditPerosnalInformationEditProfileHeading",
+        "display_value": "Edit Profile",
+        "id": 165
+    },
+    {
+        "page_name": "customerEditPersonalInformation",
+        "type": "heading",
+        "key": "customerEditPerosnalInformationFirstNameHeading",
+        "display_value": "First Name",
+        "id": 166
+    },
+    {
+        "page_name": "customerEditPersonalInformation",
+        "type": "heading",
+        "key": "customerEditPerosnalInformationLastNameHeading",
+        "display_value": "Last Name",
+        "id": 167
+    },
+    {
+        "page_name": "customerEditPersonalInformation",
+        "type": "heading",
+        "key": "customerEditPerosnalInformationAddressHeading",
+        "display_value": "Address",
+        "id": 168
+    },
+    {
+        "page_name": "customerEditPersonalInformation",
+        "type": "heading",
+        "key": "customerEditPerosnalInformationPhoneNumberHeading",
+        "display_value": "Phone Number",
+        "id": 169
+    },
+    {
+        "page_name": "customerEditPersonalInformation",
+        "type": "heading",
+        "key": "customerEditPerosnalInformationCityHeading",
+        "display_value": "City",
+        "id": 170
+    },
+    {
+        "page_name": "customerEditPersonalInformation",
+        "type": "heading",
+        "key": "customerEditPerosnalInformationZipCodeHeading",
+        "display_value": "Zip Code",
+        "id": 171
+    },
+    {
+        "page_name": "customerEditPersonalInformation",
+        "type": "Validation_heading",
+        "key": "customerEditPerosnalInformationFirstNameValidation",
+        "display_value": "First Name is Required",
+        "id": 172
+    },
+    {
+        "page_name": "customerEditPersonalInformation",
+        "type": "Validation_heading",
+        "key": "customerEditPerosnalInformationLastNameValidation",
+        "display_value": "Last Name is Required",
+        "id": 173
+    },
+    {
+        "page_name": "customerEditPersonalInformation",
+        "type": "button",
+        "key": "customerEditPerosnalInformationSaveChangesButton",
+        "display_value": "Save Changes",
+        "id": 174
+    },
+    {
+        "page_name": "customerEditPersonalInformation",
+        "type": "button",
+        "key": "customerEditPerosnalInformationCancelButton",
+        "display_value": "Cancel",
+        "id": 175
+    },
+    {
+        "page_name": "AgentSubscriptionDetails",
+        "type": "heading",
+        "key": "agentSubscriptionDetailsCallLogsHeading",
+        "display_value": "Call Logs",
+        "id": 176
+    },
+    {
+        "page_name": "AgentSubscriptionDetails",
+        "type": "heading",
+        "key": "agentSubscriptionDetailsS.NoHeading",
+        "display_value": "S.No",
+        "id": 177
+    },
+    {
+        "page_name": "AgentSubscriptionDetails",
+        "type": "heading",
+        "key": "agentSubscriptionDetailsScheduleDateHeading",
+        "display_value": "Schedule date",
+        "id": 178
+    },
+    {
+        "page_name": "AgentSubscriptionDetails",
+        "type": "heading",
+        "key": "agentSubscriptionDetailsDayHeading",
+        "display_value": "Day",
+        "id": 179
+    },
+    {
+        "page_name": "AgentSubscriptionDetails",
+        "type": "heading",
+        "key": "agentSubscriptionDetailsDayTimeHeading",
+        "display_value": "Day Time",
+        "id": 180
+    },
+    {
+        "page_name": "AgentSubscriptionDetails",
+        "type": "heading",
+        "key": "agentSubscriptionDetailsTimeHeading",
+        "display_value": "Time",
+        "id": 181
+    },
+    {
+        "page_name": "AgentSubscriptionDetails",
+        "type": "heading",
+        "key": "agentSubscriptionDetailsAgentHeading",
+        "display_value": "Agent",
+        "id": 182
+    },
+    {
+        "page_name": "AgentSubscriptionDetails",
+        "type": "heading",
+        "key": "agentSubscriptionDetailsStartTimeHeading",
+        "display_value": "Start Time",
+        "id": 183
+    },
+    {
+        "page_name": "AgentSubscriptionDetails",
+        "type": "heading",
+        "key": "agentSubscriptionDetailsEndTimeHeading",
+        "display_value": "End Time",
+        "id": 184
+    },
+    {
+        "page_name": "AgentSubscriptionDetails",
+        "type": "heading",
+        "key": "agentSubscriptionDetailsStatusHeading",
+        "display_value": "Status",
+        "id": 185
+    },
+    {
+        "page_name": "AgentSubscriptionDetails",
+        "type": "heading",
+        "key": "agentSubscriptionDetailsFeedbackHeading",
+        "display_value": "Feedback",
+        "id": 186
+    },
+    {
+        "page_name": "AgentSubscriptionDetails",
+        "type": "placeholder",
+        "key": "agentSubscriptionDetailsFeedbackPlaceholder",
+        "display_value": "Type your Feedback",
+        "id": 187
+    },
+    {
+        "page_name": "AgentSubscriptionDetails",
+        "type": "button",
+        "key": "agentSubscriptionDetailsSubmitButton",
+        "display_value": "Submit",
+        "id": 188
+    },
+    {
+        "page_name": "AgentSubscriptionDetails",
+        "type": "button",
+        "key": "agentSubscriptionDetailsCancelButton",
+        "display_value": "Cancel",
+        "id": 189
+    },
+    {
+        "page_name": "AdminPageCustomerTable",
+        "type": "heading",
+        "key": "adminPageCustomerTableCustomerHeading",
+        "display_value": "Customer",
+        "id": 190
+    },
+    {
+        "page_name": "AdminPageCustomerTable",
+        "type": "heading",
+        "key": "adminPageCustomerTableS.NoHeading",
+        "display_value": "S.No",
+        "id": 191
+    },
+    {
+        "page_name": "AdminPageCustomerTable",
+        "type": "heading",
+        "key": "adminPageCustomerTableFirstNameHeading",
+        "display_value": "First Name",
+        "id": 192
+    },
+    {
+        "page_name": "AdminPageCustomerTable",
+        "type": "heading",
+        "key": "adminPageCustomerTableLastNameHeading",
+        "display_value": "Last Name",
+        "id": 193
+    },
+    {
+        "page_name": "AdminPageCustomerTable",
+        "type": "heading",
+        "key": "adminPageCustomerTableEmailIDHeading",
+        "display_value": "Email ID",
+        "id": 194
+    },
+    {
+        "page_name": "AdminPageCustomerTable",
+        "type": "heading",
+        "key": "adminPageCustomerTableAddressHeading",
+        "display_value": "Address",
+        "id": 195
+    },
+    {
+        "page_name": "AdminPageCustomerTable",
+        "type": "heading",
+        "key": "adminPageCustomerTableCityHeading",
+        "display_value": "City",
+        "id": 196
+    },
+    {
+        "page_name": "AdminPageCustomerTable",
+        "type": "heading",
+        "key": "adminPageCustomerTableZipCodeHeading",
+        "display_value": "Zip Code",
+        "id": 197
+    },
+    {
+        "page_name": "AdminPageCustomerTable",
+        "type": "heading",
+        "key": "adminPageCustomerTableCountryHeading",
+        "display_value": "Country",
+        "id": 198
+    },
+    {
+        "page_name": "AdminPageCustomerTable",
+        "type": "heading",
+        "key": "adminPageCustomerTableStatusHeading",
+        "display_value": "Status",
+        "id": 199
+    },
+    {
+        "page_name": "AdminPageAgentTable",
+        "type": "heading",
+        "key": "adminPageAgentTableAgentHeading",
+        "display_value": "Agent",
+        "id": 200
+    },
+    {
+        "page_name": "AdminPageAgentTable",
+        "type": "heading",
+        "key": "adminPageAgentTableInviteNewAgentbutton",
+        "display_value": "Invite New Agent",
+        "id": 201
+    },
+    {
+        "page_name": "AdminPageAgentTable",
+        "type": "heading",
+        "key": "adminPageAgentTableS.NoHeading",
+        "display_value": "S.No",
+        "id": 202
+    },
+    {
+        "page_name": "AdminPageAgentTable",
+        "type": "heading",
+        "key": "adminPageAgentTableEmailIDHeading",
+        "display_value": "Email ID",
+        "id": 203
+    },
+    {
+        "page_name": "AdminPageAgentTable",
+        "type": "heading",
+        "key": "adminPageAgentTableStatusHeading",
+        "display_value": "Status",
+        "id": 204
+    },
+    {
+        "page_name": "AdminPageInviteAgentModal",
+        "type": "heading",
+        "key": "adminPageAgentInviteModalHeading",
+        "display_value": "You have an invite request",
+        "id": 205
+    },
+    {
+        "page_name": "AdminPageInviteAgentModal",
+        "type": "heading",
+        "key": "adminPageAgentInviteModalEmailIDHeading",
+        "display_value": "Email ID",
+        "id": 206
+    },
+    {
+        "page_name": "AdminPageInviteAgentModal",
+        "type": "Validation_heading",
+        "key": "adminPageAgentInviteModalEmailIDValidation",
+        "display_value": "Email ID is required",
+        "id": 207
+    },
+    {
+        "page_name": "AdminPageInviteAgentModal",
+        "type": "button",
+        "key": "adminPageAgentInviteModalSendEmailButton",
+        "display_value": "Send Email",
+        "id": 208
+    },
+    {
+        "page_name": "AdminPageSubscriptionTable",
+        "type": "heading",
+        "key": "adminPageSubscriptionTableSubscriptionHeading",
+        "display_value": "Subscription",
+        "id": 209
+    },
+    {
+        "page_name": "AdminPageSubscriptionTable",
+        "type": "heading",
+        "key": "adminPageSubscriptionTableS.NoHeading",
+        "display_value": "S.No",
+        "id": 210
+    },
+    {
+        "page_name": "AdminPageSubscriptionTable",
+        "type": "heading",
+        "key": "adminPageSubscriptionTableFirstNameHeading",
+        "display_value": "First Name",
+        "id": 211
+    },
+    {
+        "page_name": "AdminPageSubscriptionTable",
+        "type": "heading",
+        "key": "adminPageSubscriptionTableLastNameHeading",
+        "display_value": "Last Name",
+        "id": 212
+    },
+    {
+        "page_name": "AdminPageSubscriptionTable",
+        "type": "heading",
+        "key": "adminPageSubscriptionTablePackageHeading",
+        "display_value": "Package",
+        "id": 213
+    },
+    {
+        "page_name": "AdminPageSubscriptionTable",
+        "type": "heading",
+        "key": "adminPageSubscriptionTableStartDateHeading",
+        "display_value": "Start Date",
+        "id": 214
+    },
+    {
+        "page_name": "AdminPageSubscriptionTable",
+        "type": "heading",
+        "key": "adminPageSubscriptionTableEndDateHeading",
+        "display_value": "End Date",
+        "id": 215
+    },
+    {
+        "page_name": "AdminPageSubscriptionTable",
+        "type": "heading",
+        "key": "adminPageSubscriptionTableStatusHeading",
+        "display_value": "Status",
+        "id": 216
+    },
+    {
+        "page_name": "AdminSubscriptionDetails",
+        "type": "heading",
+        "key": "adminSubscriptionDetailsSubscriptionDetailsHeading",
+        "display_value": "SubscriptionDetails",
+        "id": 217
+    },
+    {
+        "page_name": "AdminSubscriptionDetails",
+        "type": "button",
+        "key": "adminSubscriptionDetailsBackbutton",
+        "display_value": "Back",
+        "id": 218
+    },
+    {
+        "page_name": "AdminSubscriptionDetails",
+        "type": "heading",
+        "key": "adminSubscriptionDetailsS.NoHeading",
+        "display_value": "S.No",
+        "id": 219
+    },
+    {
+        "page_name": "AdminSubscriptionDetails",
+        "type": "heading",
+        "key": "adminSubscriptionDetailsScheduleDateHeading",
+        "display_value": "Schedule Date",
+        "id": 220
+    },
+    {
+        "page_name": "AdminSubscriptionDetails",
+        "type": "heading",
+        "key": "adminSubscriptionDetailsDayHeading",
+        "display_value": "Day",
+        "id": 221
+    },
+    {
+        "page_name": "AdminSubscriptionDetails",
+        "type": "heading",
+        "key": "adminSubscriptionDetailsDayTimeHeading",
+        "display_value": "Day Time",
+        "id": 222
+    },
+    {
+        "page_name": "AdminSubscriptionDetails",
+        "type": "heading",
+        "key": "adminSubscriptionDetailsTimeHeading",
+        "display_value": "Time",
+        "id": 223
+    },
+    {
+        "page_name": "AdminSubscriptionDetails",
+        "type": "heading",
+        "key": "adminSubscriptionDetailsAgentHeading",
+        "display_value": "Agent",
+        "id": 224
+    },
+    {
+        "page_name": "AdminSubscriptionDetails",
+        "type": "heading",
+        "key": "adminSubscriptionDetailsStatusHeading",
+        "display_value": "Status",
+        "id": 225
+    },
+    {
+        "page_name": "sidebarDashboardHeading",
+        "type": "heading",
+        "key": "dashboardCoolocareHeading",
+        "display_value": "Coolocare",
+        "id": 226
+    },
+    {
+        "page_name": "sidebarDashboardHeading",
+        "type": "heading",
+        "key": "dashboardHeading",
+        "display_value": "Dashboard",
+        "id": 227
+    },
+    {
+        "page_name": "sidebarDashboardHeading",
+        "type": "heading",
+        "key": "customerDashboardHeading",
+        "display_value": "Customer Dashboard",
+        "id": 228
+    },
+    {
+        "page_name": "sidebarDashboardHeading",
+        "type": "heading",
+        "key": "agentDashboardHeading",
+        "display_value": "Agent Dashboard",
+        "id": 229
+    },
+    {
+        "page_name": "sidebarDashboardHeading",
+        "type": "heading",
+        "key": "adminDashboardItemsCustomerHeading",
+        "display_value": "Customer",
+        "id": 230
+    },
+    {
+        "page_name": "sidebarDashboardHeading",
+        "type": "heading",
+        "key": "adminDashboardItemsAgentHeading",
+        "display_value": "Agent",
+        "id": 231
+    },
+    {
+        "page_name": "sidebarDashboardHeading",
+        "type": "heading",
+        "key": "adminDashboardItemsSubscriptionHeading",
+        "display_value": "Subscription",
+        "id": 232
+    },
+    {
+        "page_name": "sidebarDashboardHeading",
+        "type": "heading",
+        "key": "customerDashboardItemsSubscriptionHeading",
+        "display_value": "Subscription",
+        "id": 233
+    },
+    {
+        "page_name": "sidebarDashboardHeading",
+        "type": "heading",
+        "key": "customerDashboardItemsPersonalInfoHeading",
+        "display_value": "Personal Info",
+        "id": 234
+    },
+    {
+        "page_name": "sidebarDashboardHeading",
+        "type": "heading",
+        "key": "agentDashboardItemsCallLogsHeading",
+        "display_value": "Call Logs",
+        "id": 235
+    },
+    {
+        "page_name": "navbarLogout",
+        "type": "option",
+        "key": "logoutDropdown",
+        "display_value": "Logout",
+        "id": 236
+    },
+    {
+        "page_name": "dataNotFound",
+        "type": "heading",
+        "key": "dataNotFound",
+        "display_value": "Data Not Found !",
+        "id": 237
+    },
+    {
+        "page_name": "pageNotFound",
+        "type": "heading",
+        "key": "pageNotFound404Heading",
+        "display_value": "404",
+        "id": 238
+    },
+    {
+        "page_name": "pageNotFound",
+        "type": "heading",
+        "key": "pageNotFoundHeading1",
+        "display_value": "Oops! Page Not Found !",
+        "id": 239
+    },
+    {
+        "page_name": "pageNotFound",
+        "type": "heading",
+        "key": "pageNotFoundHeading2",
+        "display_value": "Sorry, the page you are looking for does not exist.",
+        "id": 240
+    },
+    {
+        "page_name": "pageNotFound",
+        "type": "heading",
+        "key": "pageNotFoundHeading3",
+        "display_value": "Go to Home",
+        "id": 241
+    }
+]

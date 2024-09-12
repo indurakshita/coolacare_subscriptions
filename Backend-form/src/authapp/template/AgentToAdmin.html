@@ -1,0 +1,66 @@
+<html>
+
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        p {
+            line-height: 1.5;
+        }
+
+        .button {
+            display: block;
+            width: 200px;
+            margin: 20px auto;
+            padding: 10px;
+            background-color: #007bff;
+            color: #fff;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        /* Added extra style */
+        h1 {
+            color: blue;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Verify Your Account</h1>
+
+        <p>Dear {{agent_email}},</p>
+
+        <p>We are excited to onboard you as an Admin on our platform. As an Admin, you will have additional privileges
+            and responsibilities.</p>
+
+        <p>Please go through the Admin conversion materials attached to familiarize yourself with your new role. Let us
+            know if you have any questions!</p>
+
+        <p>We look forward to working with you in your new capacity.</p>
+
+        <p>Best regards,</p>
+        <p>The Coolocare Team</p>
+
+        <a href="{{url}}" class="button">Click Here To Onboard</a>
+    </div>
+</body>
+
+</html>

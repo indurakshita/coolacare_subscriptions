@@ -1,0 +1,603 @@
+[
+    {
+        "id": 1,
+        "type": "Error",
+        "label": "UsernameRequired",
+        "message": "Username is required.",
+        "action": "Sign Up",
+        "status_code": 400
+    },
+    {
+        "id": 2,
+        "type": "Error",
+        "label": "EmailRequired",
+        "message": "Email is required.",
+        "action": "Sign Up",
+        "status_code": 400
+    },
+    {
+        "id": 3,
+        "type": "Error",
+        "label": "EmailInvalid",
+        "message": "Enter a valid email address.",
+        "action": "Sign Up",
+        "status_code": 400
+    },
+    {
+        "id": 4,
+        "type": "Error",
+        "label": "UsernameTaken",
+        "message": "Username is already taken.",
+        "action": "Sign Up",
+        "status_code": 400
+    },
+    {
+        "id": 5,
+        "type": "Error",
+        "label": "EmailTaken",
+        "message": "Email is already registered.",
+        "action": "Sign Up",
+        "status_code": 400
+    },
+    {
+        "id": 6,
+        "type": "Error",
+        "label": "PasswordRequired",
+        "message": "Password is required.",
+        "action": "Sign Up",
+        "status_code": 400
+    },
+    {
+        "id": 7,
+        "type": "Error",
+        "label": "PasswordMinLength",
+        "message": "Password must be at least 8 characters long.",
+        "action": "Sign Up",
+        "status_code": 400
+    },
+    {
+        "id": 8,
+        "type": "Error",
+        "label": "PasswordConfirmation",
+        "message": "Password confirmation is required.",
+        "action": "Sign Up",
+        "status_code": 400
+    },
+    {
+        "id": 9,
+        "type": "Error",
+        "label": "PasswordMismatch",
+        "message": "The two passwords do not match.",
+        "action": "Sign Up",
+        "status_code": 400
+    },
+    {
+        "id": 10,
+        "type": "Error",
+        "label": "InvalidLogin",
+        "message": "Please enter a correct username and password. Note that both fields may be case-sensitive.",
+        "action": "Log In",
+        "status_code": 401
+    },
+    {
+        "id": 11,
+        "type": "Error",
+        "label": "InactiveAccount",
+        "message": "This account is inactive.",
+        "action": "Log In",
+        "status_code": 401
+    },
+    {
+        "id": 12,
+        "type": "Success",
+        "label": "Customercreated",
+        "message": "Customer account created successfully. Please activate it before logging in by following the instructions sent to your email.",
+        "action": "Sign Up",
+        "status_code": 201
+    },
+    {
+        "id": 13,
+        "type": "Success",
+        "label": "Admincreated",
+        "message": "Admin account created successfully. Please activate it before logging in by following the instructions sent to your email.",
+        "action": "Sign Up",
+        "status_code": 201
+    },
+    {
+        "id": 14,
+        "type": "Success",
+        "label": "Agentcreated",
+        "message": "Agent has been invited successfully",
+        "action": "Sign Up",
+        "status_code": 201
+    },
+    {
+        "id": 15,
+        "type": "Success",
+        "label": "LoggedIn",
+        "message": "Logged in successfully.",
+        "action": "LogIn",
+        "status_code": 200
+    },
+    {
+        "id": 16,
+        "type": "Success",
+        "label": "LoggedOut",
+        "message": "Logged out successfully.",
+        "action": "Log Out",
+        "status_code": 200
+    },
+    {
+        "id": 17,
+        "type": "Error",
+        "label": "PasswordResetLinkExpired",
+        "message": "The password reset link has expired. Please request a new one.",
+        "action": "Password reset",
+        "status_code": 400
+    },
+    {
+        "id": 18,
+        "type": "Error",
+        "label": "InvalidActivationLink",
+        "message": "Invalid activation link.",
+        "action": "Account activation",
+        "status_code": 400
+    },
+    {
+        "id": 19,
+        "type": "Success",
+        "label": "PasswordResetEmailSent",
+        "message": "Password reset email sent successfully.",
+        "action": "Password reset",
+        "status_code": 200
+    },
+    {
+        "id": 20,
+        "type": "Error",
+        "label": "InvalidToken",
+        "message": "Invalid or expired token.",
+        "action": "Password reset",
+        "status_code": 400
+    },
+    {
+        "id": 21,
+        "type": "Success",
+        "label": "PasswordResetSuccess",
+        "message": "Password reset successful.",
+        "action": "Password reset",
+        "status_code": 200
+    },
+    {
+        "id": 22,
+        "type": "Success",
+        "label": "AccountActivated",
+        "message": "Your account has been activated successfully.",
+        "action": "Account activation",
+        "status_code": 200
+    },
+    {
+        "id": 23,
+        "type": "Error",
+        "label": "PasswordResetFailed",
+        "message": "Password reset failed.",
+        "action": "Password reset",
+        "status_code": 400
+    },
+    {
+        "id": 24,
+        "type": "Error",
+        "label": "InvalidCredentials",
+        "message": "Sorry, the credentials you are using are invalid. Please try again",
+        "action": "Password reset",
+        "status_code": 400
+    },
+    {
+        "id": 25,
+        "type": "Error",
+        "label": "InvalidEmailFormat",
+        "message": "Invalid email format.",
+        "action": "Password reset",
+        "status_code": 400
+    },
+    {
+        "id": 26,
+        "type": "Error",
+        "label": "EmailDomainNotAllowed",
+        "message": "Email domain not allowed.",
+        "action": "Password reset",
+        "status_code": 400
+    },
+    {
+        "id": 27,
+        "type": "Error",
+        "label": "EmailBlacklisted",
+        "message": "Email is blacklisted.",
+        "action": "Password reset",
+        "status_code": 400
+    },
+    {
+        "id": 28,
+        "type": "Error",
+        "label": "EmailNotWhitelisted",
+        "message": "Email is not whitelisted.",
+        "action": "Password reset",
+        "status_code": 400
+    },
+    {
+        "id": 29,
+        "type": "Error",
+        "label": "PasswordTooShort",
+        "message": "Password must be at least 8 characters long.",
+        "action": "Password reset",
+        "status_code": 400
+    },
+    {
+        "id": 30,
+        "type": "Error",
+        "label": "PasswordNoUppercase",
+        "message": "Password must contain at least one uppercase letter.",
+        "action": "Password reset",
+        "status_code": 400
+    },
+    {
+        "id": 31,
+        "type": "Error",
+        "label": "PasswordNoLowercase",
+        "message": "Password must contain at least one lowercase letter.",
+        "action": "Password reset",
+        "status_code": 400
+    },
+    {
+        "id": 32,
+        "type": "Error",
+        "label": "PasswordNoDigit",
+        "message": "Password must contain at least one digit.",
+        "action": "Password reset",
+        "status_code": 400
+    },
+    {
+        "id": 33,
+        "type": "Error",
+        "label": "PasswordNoSpecialCharacter",
+        "message": "Password must contain at least one special character.",
+        "action": "Password reset",
+        "status_code": 400
+    },
+    {
+        "id": 34,
+        "type": "Error",
+        "label": "PasswordTooCommon",
+        "message": "Password is too common.",
+        "action": "Password reset",
+        "status_code": 400
+    },
+    {
+        "id": 35,
+        "type": "Error",
+        "label": "PasswordContainsUsername",
+        "message": "Password cannot contain your username.",
+        "action": "Password reset",
+        "status_code": 400
+    },
+    {
+        "id": 36,
+        "type": "info",
+        "label": "UserAlreadyActivated",
+        "message": "User is already activated.",
+        "action": "User activation",
+        "status_code": 200
+    },
+    {
+        "id": 37,
+        "type": "error",
+        "label": "AccountNotActivated",
+        "message": "Account is not activated. Please activate your account.",
+        "action": "Account activation",
+        "status_code": 401
+    },
+    {
+        "id": 38,
+        "type": "Error",
+        "label": "PasswordReuseError",
+        "message": "New password should not be the same as the previous password.",
+        "action": "Password reset",
+        "status_code": 400
+    },
+    {
+        "id": 39,
+        "type": "Error",
+        "label": "ScheduleNotFound",
+        "message": "Schedule Not Found.",
+        "action": "Not Found",
+        "status_code": 404
+    },
+    {
+        "id": 40,
+        "type": "Error",
+        "label": "ScheduleAlreadyExist",
+        "message": "Schedule Already Exist.",
+        "action": "Conflict",
+        "status_code": 409
+    },
+    {
+        "id": 41,
+        "type": "Success",
+        "label": "ScheduleCreated",
+        "message": "Schedule was created successfully.",
+        "action": "Create",
+        "status_code": 201
+    },
+    {
+        "id": 42,
+        "type": "Success",
+        "label": "ScheduleDeleted",
+        "message": "Schedule was deleted successfully.",
+        "action": "Delete",
+        "status_code": 200
+    },
+    {
+        "id": 43,
+        "type": "Success",
+        "label": "ScheduleUpdate",
+        "message": "Schedule was updated successfully.",
+        "action": "Update",
+        "status_code": 200
+    },
+    {
+        "id": 44,
+        "type": "Error",
+        "label": "ScheduleIdInvalid",
+        "message": "ScheduleId is empty or invalid",
+        "action": "Invalid",
+        "status_code": 400
+    },
+    {
+        "id": 45,
+        "type": "Error",
+        "label": "SlotNotFound",
+        "message": "Slot Not Found.",
+        "action": "Not Found",
+        "status_code": 404
+    },
+    {
+        "id": 46,
+        "type": "Error",
+        "label": "SlotAlreadyExist",
+        "message": "Slot Already Exist.",
+        "action": "Conflict",
+        "status_code": 409
+    },
+    {
+        "id": 47,
+        "type": "Success",
+        "label": "SlotCreated",
+        "message": "Slot was created successfully.",
+        "action": "Create",
+        "status_code": 201
+    },
+    {
+        "id": 48,
+        "type": "Success",
+        "label": "SlotDeleted",
+        "message": "Slot was deleted successfully.",
+        "action": "Delete",
+        "status_code": 200
+    },
+    {
+        "id": 49,
+        "type": "Success",
+        "label": "SlotUpdate",
+        "message": "Slot was updated successfully.",
+        "action": "Update",
+        "status_code": 200
+    },
+    {
+        "id": 50,
+        "type": "Error",
+        "label": "SlotIdInvalid",
+        "message": "SlotId is empty or invalid",
+        "action": "Invalid",
+        "status_code": 400
+    },
+    {
+        "id": 51,
+        "type": "Error",
+        "label": "StatusNotFound",
+        "message": "Status Not Found.",
+        "action": "Not Found",
+        "status_code": 404
+    },
+    {
+        "id": 52,
+        "type": "Error",
+        "label": "StatusAlreadyExist",
+        "message": "Status Already Exist.",
+        "action": "Conflict",
+        "status_code": 409
+    },
+    {
+        "id": 53,
+        "type": "Success",
+        "label": "StatusCreated",
+        "message": "Status was created successfully.",
+        "action": "Create",
+        "status_code": 201
+    },
+    {
+        "id": 54,
+        "type": "Success",
+        "label": "StatusDeleted",
+        "message": "Status was deleted successfully.",
+        "action": "Delete",
+        "status_code": 200
+    },
+    {
+        "id": 55,
+        "type": "Success",
+        "label": "StatusUpdate",
+        "message": "Status was updated successfully.",
+        "action": "Update",
+        "status_code": 200
+    },
+    {
+        "id": 56,
+        "type": "Error",
+        "label": "StatusIdInvalid",
+        "message": "StatusId is empty or invalid",
+        "action": "Invalid",
+        "status_code": 400
+    },
+    {
+        "id": 57,
+        "type": "Error",
+        "label": "ScheduleStatusNotFound",
+        "message": "No Details Found",
+        "action": "Not Found",
+        "status_code": 404
+    },
+    {
+        "id": 58,
+        "type": "Error",
+        "label": "AgentNotFound",
+        "message": "Agent Not Found",
+        "action": "Not Found",
+        "status_code": 404
+    },
+    {
+        "id": 59,
+        "type": "Success",
+        "label": "CallConnected",
+        "message": "Call Connected Successfully",
+        "action": "Connect",
+        "status_code": 200
+    },
+    {
+        "id": 60,
+        "type": "Error",
+        "label": "TextNotFound",
+        "message": "Scheduled Text Not Found",
+        "action": "Not Found",
+        "status_code": 404
+    },
+    {
+        "id": 61,
+        "type": "Error",
+        "label": "TextIdInvalid",
+        "message": "Invalid Data",
+        "action": "Invalid",
+        "status_code": 400
+    },
+    {
+        "id": 62,
+        "type": "Success",
+        "label": "TextDeleted",
+        "message": "Text was Deleted Successfully",
+        "action": "Deleted",
+        "status_code": 200
+    },
+    {
+        "id": 63,
+        "type": "Success",
+        "label": "TextUpdated",
+        "message": "Text was Updated Successfully",
+        "action": "Updated",
+        "status_code": 200
+    },
+    {
+        "id": 64,
+        "type": "Success",
+        "label": "SubscriptionUpdated",
+        "message": "Subscription was Updated Successfully",
+        "action": "Updated",
+        "status_code": 200
+    },
+    {
+        "id": 65,
+        "type": "Error",
+        "label": "UserNotFound",
+        "message": "user not found",
+        "action": "Log In",
+        "status_code": 401
+    },
+    {
+        "id": 66,
+        "type": "Success",
+        "label": "PaymentSuccess",
+        "message": "Payment confirmed successfully",
+        "action": "Payment",
+        "status_code": 200
+    },
+    {
+        "id": 67,
+        "type": "Success",
+        "label": "PasswordSetSuccess",
+        "message": "Password set successful.",
+        "action": "Password reset",
+        "status_code": 200
+    },
+    {
+        "id": 68,
+        "type": "Success",
+        "label": "PaymentCancel",
+        "message": "Payment Cancelled",
+        "action": "Payment",
+        "status_code": 200
+    },
+    {
+        "id": 69,
+        "type": "info",
+        "label": "SlotesAlredyBooked",
+        "message": "Your payment and slotes already confirmed and booked",
+        "action": "Payment",
+        "status_code": 200
+    },
+    {
+        "id": 70,
+        "type": "Success",
+        "label": "AgentDeleted",
+        "message": "Agent was Deleted Successfully",
+        "action": "Delete",
+        "status_code": 200
+    },
+    {
+        "id": 71,
+        "type": "Invalid",
+        "label": "InvalidAgentId",
+        "message": "Empty Agent Id",
+        "action": "Invalid",
+        "status_code": 400
+    },
+    {
+        "id": 72,
+        "type": "invite",
+        "label": "AgentInviteToAdmin",
+        "message": "Agent invited for Admin Onboarding",
+        "action": "update",
+        "status_code": 200
+    },
+    {
+        "id": 73,
+        "type": "invite",
+        "label": "AgentInviteSuccess",
+        "message": "Admin Successfully Invited for Admin Onboarding",
+        "action": "update",
+        "status_code": 200
+    },
+    {
+        "id": 74,
+        "type": "Access",
+        "label": "AdminAccessRevoke",
+        "message": "Admin Acess successfully revoked",
+        "action": "Delete",
+        "status_code": 200
+    },
+    {
+        "id": 75,
+        "type":"Delete",
+        "label":"CustomerDelete",
+        "message":"Customer deleted successfully",
+        "action":"Delete" ,
+        "status_code":204 
+      }
+
+]

@@ -1,0 +1,1514 @@
+[
+    {
+        "id": 1,
+        "day": "Monday",
+        "daytime": "Morning",
+        "time": "08:00 - 08:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 2,
+        "day": "Monday",
+        "daytime": "Morning",
+        "time": "08:30 - 09:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 3,
+        "day": "Monday",
+        "daytime": "Morning",
+        "time": "09:00 - 09:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 4,
+        "day": "Monday",
+        "daytime": "Morning",
+        "time": "09:30 - 10:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 5,
+        "day": "Monday",
+        "daytime": "Morning",
+        "time": "10:00 - 10:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 6,
+        "day": "Monday",
+        "daytime": "Morning",
+        "time": "10:30 - 11:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 7,
+        "day": "Monday",
+        "daytime": "Morning",
+        "time": "11:00 - 11:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 8,
+        "day": "Monday",
+        "daytime": "Morning",
+        "time": "11:30 - 12:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 9,
+        "day": "Monday",
+        "daytime": "Afternoon",
+        "time": "12:00 - 12:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 10,
+        "day": "Monday",
+        "daytime": "Afternoon",
+        "time": "12:30 - 13:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 11,
+        "day": "Monday",
+        "daytime": "Afternoon",
+        "time": "13:00 - 13:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 12,
+        "day": "Monday",
+        "daytime": "Afternoon",
+        "time": "13:30 - 14:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 13,
+        "day": "Monday",
+        "daytime": "Afternoon",
+        "time": "14:00 - 14:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 14,
+        "day": "Monday",
+        "daytime": "Afternoon",
+        "time": "14:30 - 15:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 15,
+        "day": "Monday",
+        "daytime": "Afternoon",
+        "time": "15:00 - 15:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 16,
+        "day": "Monday",
+        "daytime": "Afternoon",
+        "time": "15:30 - 16:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 17,
+        "day": "Monday",
+        "daytime": "Evening",
+        "time": "16:00 - 16:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 18,
+        "day": "Monday",
+        "daytime": "Evening",
+        "time": "16:30 - 17:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 19,
+        "day": "Monday",
+        "daytime": "Evening",
+        "time": "17:00 - 17:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 20,
+        "day": "Monday",
+        "daytime": "Evening",
+        "time": "17:30 - 18:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 21,
+        "day": "Monday",
+        "daytime": "Evening",
+        "time": "18:00 - 18:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 22,
+        "day": "Monday",
+        "daytime": "Evening",
+        "time": "18:30 - 19:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 23,
+        "day": "Monday",
+        "daytime": "Evening",
+        "time": "19:00 - 19:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 24,
+        "day": "Monday",
+        "daytime": "Evening",
+        "time": "19:30 - 20:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 25,
+        "day": "Tuesday",
+        "daytime": "Morning",
+        "time": "08:00 - 08:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 26,
+        "day": "Tuesday",
+        "daytime": "Morning",
+        "time": "08:30 - 09:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 27,
+        "day": "Tuesday",
+        "daytime": "Morning",
+        "time": "09:00 - 09:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 28,
+        "day": "Tuesday",
+        "daytime": "Morning",
+        "time": "09:30 - 10:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 29,
+        "day": "Tuesday",
+        "daytime": "Morning",
+        "time": "10:00 - 10:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 30,
+        "day": "Tuesday",
+        "daytime": "Morning",
+        "time": "10:30 - 11:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 31,
+        "day": "Tuesday",
+        "daytime": "Morning",
+        "time": "11:00 - 11:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 32,
+        "day": "Tuesday",
+        "daytime": "Morning",
+        "time": "11:30 - 12:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 33,
+        "day": "Tuesday",
+        "daytime": "Afternoon",
+        "time": "12:00 - 12:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 34,
+        "day": "Tuesday",
+        "daytime": "Afternoon",
+        "time": "12:30 - 13:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 35,
+        "day": "Tuesday",
+        "daytime": "Afternoon",
+        "time": "13:00 - 13:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 36,
+        "day": "Tuesday",
+        "daytime": "Afternoon",
+        "time": "13:30 - 14:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 37,
+        "day": "Tuesday",
+        "daytime": "Afternoon",
+        "time": "14:00 - 14:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 38,
+        "day": "Tuesday",
+        "daytime": "Afternoon",
+        "time": "14:30 - 15:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 39,
+        "day": "Tuesday",
+        "daytime": "Afternoon",
+        "time": "15:00 - 15:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 40,
+        "day": "Tuesday",
+        "daytime": "Afternoon",
+        "time": "15:30 - 16:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 41,
+        "day": "Tuesday",
+        "daytime": "Evening",
+        "time": "16:00 - 16:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 42,
+        "day": "Tuesday",
+        "daytime": "Evening",
+        "time": "16:30 - 17:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 43,
+        "day": "Tuesday",
+        "daytime": "Evening",
+        "time": "17:00 - 17:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 44,
+        "day": "Tuesday",
+        "daytime": "Evening",
+        "time": "17:30 - 18:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 45,
+        "day": "Tuesday",
+        "daytime": "Evening",
+        "time": "18:00 - 18:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 46,
+        "day": "Tuesday",
+        "daytime": "Evening",
+        "time": "18:30 - 19:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 47,
+        "day": "Tuesday",
+        "daytime": "Evening",
+        "time": "19:00 - 19:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 48,
+        "day": "Tuesday",
+        "daytime": "Evening",
+        "time": "19:30 - 20:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 49,
+        "day": "Wednesday",
+        "daytime": "Morning",
+        "time": "08:00 - 08:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 50,
+        "day": "Wednesday",
+        "daytime": "Morning",
+        "time": "08:30 - 09:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 51,
+        "day": "Wednesday",
+        "daytime": "Morning",
+        "time": "09:00 - 09:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 52,
+        "day": "Wednesday",
+        "daytime": "Morning",
+        "time": "09:30 - 10:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 53,
+        "day": "Wednesday",
+        "daytime": "Morning",
+        "time": "10:00 - 10:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 54,
+        "day": "Wednesday",
+        "daytime": "Morning",
+        "time": "10:30 - 11:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 55,
+        "day": "Wednesday",
+        "daytime": "Morning",
+        "time": "11:00 - 11:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 56,
+        "day": "Wednesday",
+        "daytime": "Morning",
+        "time": "11:30 - 12:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 57,
+        "day": "Wednesday",
+        "daytime": "Afternoon",
+        "time": "12:00 - 12:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 58,
+        "day": "Wednesday",
+        "daytime": "Afternoon",
+        "time": "12:30 - 13:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 59,
+        "day": "Wednesday",
+        "daytime": "Afternoon",
+        "time": "13:00 - 13:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 60,
+        "day": "Wednesday",
+        "daytime": "Afternoon",
+        "time": "13:30 - 14:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 61,
+        "day": "Wednesday",
+        "daytime": "Afternoon",
+        "time": "14:00 - 14:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 62,
+        "day": "Wednesday",
+        "daytime": "Afternoon",
+        "time": "14:30 - 15:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 63,
+        "day": "Wednesday",
+        "daytime": "Afternoon",
+        "time": "15:00 - 15:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 64,
+        "day": "Wednesday",
+        "daytime": "Afternoon",
+        "time": "15:30 - 16:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 65,
+        "day": "Wednesday",
+        "daytime": "Evening",
+        "time": "16:00 - 16:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 66,
+        "day": "Wednesday",
+        "daytime": "Evening",
+        "time": "16:30 - 17:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 67,
+        "day": "Wednesday",
+        "daytime": "Evening",
+        "time": "17:00 - 17:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 68,
+        "day": "Wednesday",
+        "daytime": "Evening",
+        "time": "17:30 - 18:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 69,
+        "day": "Wednesday",
+        "daytime": "Evening",
+        "time": "18:00 - 18:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 70,
+        "day": "Wednesday",
+        "daytime": "Evening",
+        "time": "18:30 - 19:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 71,
+        "day": "Wednesday",
+        "daytime": "Evening",
+        "time": "19:00 - 19:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 72,
+        "day": "Wednesday",
+        "daytime": "Evening",
+        "time": "19:30 - 20:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 73,
+        "day": "Thursday",
+        "daytime": "Morning",
+        "time": "08:00 - 08:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 74,
+        "day": "Thursday",
+        "daytime": "Morning",
+        "time": "08:30 - 09:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 75,
+        "day": "Thursday",
+        "daytime": "Morning",
+        "time": "09:00 - 09:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 76,
+        "day": "Thursday",
+        "daytime": "Morning",
+        "time": "09:30 - 10:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 77,
+        "day": "Thursday",
+        "daytime": "Morning",
+        "time": "10:00 - 10:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 78,
+        "day": "Thursday",
+        "daytime": "Morning",
+        "time": "10:30 - 11:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 79,
+        "day": "Thursday",
+        "daytime": "Morning",
+        "time": "11:00 - 11:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 80,
+        "day": "Thursday",
+        "daytime": "Morning",
+        "time": "11:30 - 12:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 81,
+        "day": "Thursday",
+        "daytime": "Afternoon",
+        "time": "12:00 - 12:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 82,
+        "day": "Thursday",
+        "daytime": "Afternoon",
+        "time": "12:30 - 13:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 83,
+        "day": "Thursday",
+        "daytime": "Afternoon",
+        "time": "13:00 - 13:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 84,
+        "day": "Thursday",
+        "daytime": "Afternoon",
+        "time": "13:30 - 14:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 85,
+        "day": "Thursday",
+        "daytime": "Afternoon",
+        "time": "14:00 - 14:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 86,
+        "day": "Thursday",
+        "daytime": "Afternoon",
+        "time": "14:30 - 15:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 87,
+        "day": "Thursday",
+        "daytime": "Afternoon",
+        "time": "15:00 - 15:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 88,
+        "day": "Thursday",
+        "daytime": "Afternoon",
+        "time": "15:30 - 16:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 89,
+        "day": "Thursday",
+        "daytime": "Evening",
+        "time": "16:00 - 16:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 90,
+        "day": "Thursday",
+        "daytime": "Evening",
+        "time": "16:30 - 17:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 91,
+        "day": "Thursday",
+        "daytime": "Evening",
+        "time": "17:00 - 17:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 92,
+        "day": "Thursday",
+        "daytime": "Evening",
+        "time": "17:30 - 18:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 93,
+        "day": "Thursday",
+        "daytime": "Evening",
+        "time": "18:00 - 18:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 94,
+        "day": "Thursday",
+        "daytime": "Evening",
+        "time": "18:30 - 19:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 95,
+        "day": "Thursday",
+        "daytime": "Evening",
+        "time": "19:00 - 19:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 96,
+        "day": "Thursday",
+        "daytime": "Evening",
+        "time": "19:30 - 20:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 97,
+        "day": "Friday",
+        "daytime": "Morning",
+        "time": "08:00 - 08:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 98,
+        "day": "Friday",
+        "daytime": "Morning",
+        "time": "08:30 - 09:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 99,
+        "day": "Friday",
+        "daytime": "Morning",
+        "time": "09:00 - 09:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 100,
+        "day": "Friday",
+        "daytime": "Morning",
+        "time": "09:30 - 10:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 101,
+        "day": "Friday",
+        "daytime": "Morning",
+        "time": "10:00 - 10:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 102,
+        "day": "Friday",
+        "daytime": "Morning",
+        "time": "10:30 - 11:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 103,
+        "day": "Friday",
+        "daytime": "Morning",
+        "time": "11:00 - 11:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 104,
+        "day": "Friday",
+        "daytime": "Morning",
+        "time": "11:30 - 12:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 105,
+        "day": "Friday",
+        "daytime": "Afternoon",
+        "time": "12:00 - 12:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 106,
+        "day": "Friday",
+        "daytime": "Afternoon",
+        "time": "12:30 - 13:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 107,
+        "day": "Friday",
+        "daytime": "Afternoon",
+        "time": "13:00 - 13:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 108,
+        "day": "Friday",
+        "daytime": "Afternoon",
+        "time": "13:30 - 14:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 109,
+        "day": "Friday",
+        "daytime": "Afternoon",
+        "time": "14:00 - 14:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 110,
+        "day": "Friday",
+        "daytime": "Afternoon",
+        "time": "14:30 - 15:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 111,
+        "day": "Friday",
+        "daytime": "Afternoon",
+        "time": "15:00 - 15:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 112,
+        "day": "Friday",
+        "daytime": "Afternoon",
+        "time": "15:30 - 16:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 113,
+        "day": "Friday",
+        "daytime": "Evening",
+        "time": "16:00 - 16:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 114,
+        "day": "Friday",
+        "daytime": "Evening",
+        "time": "16:30 - 17:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 115,
+        "day": "Friday",
+        "daytime": "Evening",
+        "time": "17:00 - 17:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 116,
+        "day": "Friday",
+        "daytime": "Evening",
+        "time": "17:30 - 18:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 117,
+        "day": "Friday",
+        "daytime": "Evening",
+        "time": "18:00 - 18:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 118,
+        "day": "Friday",
+        "daytime": "Evening",
+        "time": "18:30 - 19:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 119,
+        "day": "Friday",
+        "daytime": "Evening",
+        "time": "19:00 - 19:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 120,
+        "day": "Friday",
+        "daytime": "Evening",
+        "time": "19:30 - 20:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 121,
+        "day": "Saturday",
+        "daytime": "Morning",
+        "time": "08:00 - 08:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 122,
+        "day": "Saturday",
+        "daytime": "Morning",
+        "time": "08:30 - 09:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 123,
+        "day": "Saturday",
+        "daytime": "Morning",
+        "time": "09:00 - 09:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 124,
+        "day": "Saturday",
+        "daytime": "Morning",
+        "time": "09:30 - 10:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 125,
+        "day": "Saturday",
+        "daytime": "Morning",
+        "time": "10:00 - 10:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 126,
+        "day": "Saturday",
+        "daytime": "Morning",
+        "time": "10:30 - 11:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 127,
+        "day": "Saturday",
+        "daytime": "Morning",
+        "time": "11:00 - 11:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 128,
+        "day": "Saturday",
+        "daytime": "Morning",
+        "time": "11:30 - 12:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 129,
+        "day": "Saturday",
+        "daytime": "Afternoon",
+        "time": "12:00 - 12:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 130,
+        "day": "Saturday",
+        "daytime": "Afternoon",
+        "time": "12:30 - 13:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 131,
+        "day": "Saturday",
+        "daytime": "Afternoon",
+        "time": "13:00 - 13:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 132,
+        "day": "Saturday",
+        "daytime": "Afternoon",
+        "time": "13:30 - 14:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 133,
+        "day": "Saturday",
+        "daytime": "Afternoon",
+        "time": "14:00 - 14:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 134,
+        "day": "Saturday",
+        "daytime": "Afternoon",
+        "time": "14:30 - 15:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 135,
+        "day": "Saturday",
+        "daytime": "Afternoon",
+        "time": "15:00 - 15:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 136,
+        "day": "Saturday",
+        "daytime": "Afternoon",
+        "time": "15:30 - 16:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 137,
+        "day": "Saturday",
+        "daytime": "Evening",
+        "time": "16:00 - 16:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 138,
+        "day": "Saturday",
+        "daytime": "Evening",
+        "time": "16:30 - 17:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 139,
+        "day": "Saturday",
+        "daytime": "Evening",
+        "time": "17:00 - 17:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 140,
+        "day": "Saturday",
+        "daytime": "Evening",
+        "time": "17:30 - 18:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 141,
+        "day": "Saturday",
+        "daytime": "Evening",
+        "time": "18:00 - 18:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 142,
+        "day": "Saturday",
+        "daytime": "Evening",
+        "time": "18:30 - 19:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 143,
+        "day": "Saturday",
+        "daytime": "Evening",
+        "time": "19:00 - 19:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 144,
+        "day": "Saturday",
+        "daytime": "Evening",
+        "time": "19:30 - 20:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 145,
+        "day": "Sunday",
+        "daytime": "Morning",
+        "time": "08:00 - 08:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 146,
+        "day": "Sunday",
+        "daytime": "Morning",
+        "time": "08:30 - 09:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 147,
+        "day": "Sunday",
+        "daytime": "Morning",
+        "time": "09:00 - 09:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 148,
+        "day": "Sunday",
+        "daytime": "Morning",
+        "time": "09:30 - 10:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 149,
+        "day": "Sunday",
+        "daytime": "Morning",
+        "time": "10:00 - 10:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 150,
+        "day": "Sunday",
+        "daytime": "Morning",
+        "time": "10:30 - 11:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 151,
+        "day": "Sunday",
+        "daytime": "Morning",
+        "time": "11:00 - 11:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 152,
+        "day": "Sunday",
+        "daytime": "Morning",
+        "time": "11:30 - 12:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 153,
+        "day": "Sunday",
+        "daytime": "Afternoon",
+        "time": "12:00 - 12:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 154,
+        "day": "Sunday",
+        "daytime": "Afternoon",
+        "time": "12:30 - 13:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 155,
+        "day": "Sunday",
+        "daytime": "Afternoon",
+        "time": "13:00 - 13:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 156,
+        "day": "Sunday",
+        "daytime": "Afternoon",
+        "time": "13:30 - 14:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 157,
+        "day": "Sunday",
+        "daytime": "Afternoon",
+        "time": "14:00 - 14:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 158,
+        "day": "Sunday",
+        "daytime": "Afternoon",
+        "time": "14:30 - 15:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 159,
+        "day": "Sunday",
+        "daytime": "Afternoon",
+        "time": "15:00 - 15:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 160,
+        "day": "Sunday",
+        "daytime": "Afternoon",
+        "time": "15:30 - 16:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 161,
+        "day": "Sunday",
+        "daytime": "Evening",
+        "time": "16:00 - 16:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 162,
+        "day": "Sunday",
+        "daytime": "Evening",
+        "time": "16:30 - 17:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 163,
+        "day": "Sunday",
+        "daytime": "Evening",
+        "time": "17:00 - 17:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 164,
+        "day": "Sunday",
+        "daytime": "Evening",
+        "time": "17:30 - 18:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 165,
+        "day": "Sunday",
+        "daytime": "Evening",
+        "time": "18:00 - 18:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 166,
+        "day": "Sunday",
+        "daytime": "Evening",
+        "time": "18:30 - 19:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 167,
+        "day": "Sunday",
+        "daytime": "Evening",
+        "time": "19:00 - 19:30",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    },
+    {
+        "id": 168,
+        "day": "Sunday",
+        "daytime": "Evening",
+        "time": "19:30 - 20:00",
+        "total_slots": 8,
+        "booked_slots": 0,
+        "available_slots": 8
+    }
+]

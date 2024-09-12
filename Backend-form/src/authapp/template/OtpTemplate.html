@@ -1,0 +1,72 @@
+<html>
+
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #007bff;
+        }
+
+        p {
+            font-size: 18px;
+        }
+
+        .otp {
+            font-size: 24px;
+            font-weight: bold;
+            padding: 10px;
+            background-color: #f1f1f1;
+            border-radius: 4px;
+            display: inline-block;
+        }
+
+        .otp-page {
+            background-color: #f5f5f5;
+            padding: 40px 0;
+        }
+
+        .otp-container {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 60px;
+            max-width: 400px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="otp-page">
+
+        <div class="otp-container">
+
+            <h1>Verify Your Email</h1>
+
+            <p>Your OTP is:</p>
+
+            <div class="otp">
+                {{otp}}
+            </div>
+
+            <p>This OTP is valid for 5 minutes. Please enter it on the verification page to confirm your email address.
+            </p>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subscription Confirmation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h2 {
+            text-align: center;
+            margin: 0;
+            padding-bottom: 20px;
+            color: #333333;
+        }
+        p {
+            color: #666666;
+            line-height: 1.6;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        .footer {
+            text-align: center;
+            padding-top: 20px;
+            color: #999999;
+            font-size: 0.8em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Welcome to Coolo Care!</h2>
+        <p>Dear {{name}},</p>
+        <p>Thank you for signing up with Coolo Care. We are thrilled to have you on board and can't wait to see how you will benefit from our services.</p>
+        <p>Below given is your subscription plan details for reference:</p>
+        <ul>
+            <li><strong>Subscription Plan:</strong> {{plan}}</li>
+            <li><strong>Subscription Start Date:</strong> {{start_date}}</li>
+            <li><strong>Subscription End Date:</strong> {{end_date}}</li>
+            <li><strong>Billing Cycle:</strong> {{cycle}}</li>
+            {% if trial %}
+                <li><strong>Mode:</strong> {{trial}}</li>
+            {% endif %}
+        </ul>
+        <p>Your subscription includes access to all features and benefits of Coolo Care. If you have any questions about your subscription or need assistance, please don't hesitate to contact our customer support team at [Your Support Email/Phone Number].</p>
+        <p>Thank you for choosing Coolo Care. We look forward to serving you!</p>
+        <p class="footer">This email was sent to {{email}}. You are receiving this email because you signed up for a subscription at Coolo Care.com.</p>
+    </div>
+</body>
+</html>

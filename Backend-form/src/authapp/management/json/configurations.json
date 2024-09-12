@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "config_type": "email",
+        "key": "host",
+        "value": "smtp.gmail.com"
+    },
+    {
+        "id": 2,
+        "config_type": "email",
+        "key": "port",
+        "value": "587"
+    },
+    {
+        "id": 3,
+        "config_type": "email",
+        "key": "email",
+        "value": "info@coolocare.com"
+    },
+    {
+        "id": 4,
+        "config_type": "email",
+        "key": "password",
+        "value": "fajx goyz spyz swns"
+    }
+]
