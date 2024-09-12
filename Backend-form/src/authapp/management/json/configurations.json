@@ -15,12 +15,12 @@
         "id": 3,
         "config_type": "email",
         "key": "email",
-        "value": "info@coolocare.com"
+        "value": ""
     },
     {
         "id": 4,
         "config_type": "email",
         "key": "password",
-        "value": "fajx goyz spyz swns"
+        "value": ""
     }
 ]
